@@ -1,0 +1,55 @@
+@import url('https://fonts.cdnfonts.com/css/chillax');
+
+@import url('https://fonts.cdnfonts.com/css/capriola');
+@import url('https://fonts.cdnfonts.com/css/roboto');
+@import url('https://fonts.cdnfonts.com/css/tilt-neon');
+@import url('https://fonts.cdnfonts.com/css/poppins');
+@import url('https://fonts.cdnfonts.com/css/lato');
+
+
+
+
+
+html{
+  scroll-behavior: smooth;
+}
+
+#after_hero {
+  border: none;              /* remove default browser styling */
+  height: 2px;               /* thickness of the line */
+  background-color: black;   /* now the color will apply */
+  position: relative;
+  top: 108px;
+}
+
+#after_work{
+/* border: none;              remove default browser styling */
+  /* height: 2px;               thickness of the line */
+  background-color: rgb(212, 196, 196);   /* now the color will apply */
+  position: relative;
+}
+body {
+  display: flex;
+
+  flex-direction: column;
+  align-items: center;
+  background-color: #000000;
+  background-image: url('assets/Test.gif');
+  /* background-position: center; */
+  /* background-size: cover; */
+  background-repeat: repeat;
+
+  
+
+
+
+}
+
+
+
+main {
+  /* border: 2px solid white; */
+  margin-top: 220px;
+  position: relative;
+  height: 500px;
+}

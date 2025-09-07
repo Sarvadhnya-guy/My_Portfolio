@@ -1,0 +1,53 @@
+.what{
+  margin-left: 25px;
+  font-family: monospace;
+  /* font-family: monospace; */
+  /* font-weight: 500; */
+  margin-top: 95px;
+  font-size: 6.2rem;
+  color: #d84e2c;
+  display: block;
+
+}
+
+.I{
+  color: wheat;
+}
+
+.work_p{
+  /* border: 2px solid wheat; */
+  width: 725px;
+  margin-left: 40px;
+  margin-top: 45px;
+}
+.work{
+  height: 565px;
+  border: 2px solid white;
+}
+.contact_me{
+  /* border: 2px solid wheat; */
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+  width: 300px;
+  margin-left: 900px;
+  margin-top: -280px;
+}
+
+.contact_me h2{
+  color:wheat;
+  font-family: monospace;
+  font-weight: 700;
+  font-size: 2.5rem;
+}
+
+.contact_me a{
+  color: aquamarine;
+  font-family: 'Poppins', sans-serif;
+  margin-right: 20px;
+  margin: 5px;
+  font-size: 1.1em;
+  align-self: flex-start;
+  text-decoration: none;
+}

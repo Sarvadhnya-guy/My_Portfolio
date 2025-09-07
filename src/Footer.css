@@ -1,0 +1,17 @@
+.Footer{
+    /* border: 2px solid white; */
+    
+    width: max-content;
+    /* width: 1000px; */
+    margin-left: 500px;
+    display: block;
+    margin-top: 20px;
+    color: aquamarine;
+    font-size: 1.4rem;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+}
+
+.Footer:hover{
+    color: rgba(127, 255, 212, 0.695);
+}

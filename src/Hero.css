@@ -1,0 +1,69 @@
+.profile-img {
+  position: absolute;
+  margin-left: 150px;
+  top: 125px;
+  color: #FCA311;
+  border: 2px solid;
+  width: 250px;
+  height: 250px;
+  display: block;
+  border-radius: 50%;
+  /* z-index: 1; */
+}
+
+.fullstack {
+  /* border: 2px solid; */
+  font-family: monospace;
+  /* font-family: monospace; */
+  margin-left: 20px;
+  /* font-weight: 400; */
+  font-size: 6.5rem;
+  color: #d84e2c;
+  /* display: inline; */
+  /* position: absolute; */
+  /* z-index: -1; */
+}
+
+.developer {
+  /* border: 2px solid; */
+  font-family: monospace;
+  margin-left: 50px;
+  /* margin-top: px; */
+  /* font-family: monospace; */
+  /* font-weight: 400; */
+  font-size: 6.5rem;
+  color:wheat;
+  /* display: inline; */
+  position: relative;
+  top: -35px;
+  right: -30px;
+  /* z-index: -1; */
+}
+
+.hero{
+
+  margin-top: 150px;
+
+}
+.About {
+  /* border: 2px solid white; */
+  margin-top: 70px;
+  width: 650px;
+  margin-left: 620px;
+  /* z-index: -1; */
+  height: 350px;
+  /* position: relative; */
+}
+
+p {
+  margin-top: 20px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  margin-left: 20px;
+  font-size: 1.25rem;
+  /* border: 2px solid white; */
+  color: #faebd79c;
+  /* width: 700px; */
+}
+
+
