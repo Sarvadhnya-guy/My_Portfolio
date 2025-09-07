@@ -23,7 +23,7 @@ return (
             </ul>
             
             <ul className="list_left">
-                <li> <a className="icons" href=""><FontAwesomeIcon  icon={faGithub} /></a></li>
+                <li> <a className="icons" href="https://github.com/Sarvadhnya-guy"><FontAwesomeIcon  icon={faGithub} /></a></li>
                 <li> <a className="icons" href="https://www.linkedin.com/in/sarvadhnya-chaure-361a9b31a/"><FontAwesomeIcon  icon={faSquareLinkedin } /></a></li>
                 <li> <a className="icons" href="mailto:yourname@example.com"><FontAwesomeIcon  icon={faEnvelope } /></a></li>
             </ul>
